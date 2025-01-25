@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/ios-filled/50/007aff/xcode.png" alt="Xcode" width="40" height="40"/>
   <img src="https://img.icons8.com/officel/80/000000/java-eclipse.png" alt="Eclipse" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-figma-graphic-design-and-ux-ui-flat-flat-juicy-fish.png" alt="Figma" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/0078d7/microsoft-office-2019.png" alt="Microsoft Office" width="40" height="40"/>
 </p>
 
