@@ -64,4 +64,4 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/ios-filled/50/0078d7/microsoft-office-2019.png" alt="Microsoft Office" width="40" height="40"/>
 </p>
 
-[![Yuxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyxxx2003&hide=stars)](https://github.com/Lyxxx2003/github-readme-stats)
+[![Yuxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyxxx2003&hide=stars)](https://github.com/Lyxxx2003/github-readme-stats) 
