@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-- 🧑‍🎓 I'm currently a junior studying Computer Science at Columbia University.
+- 🧑‍🎓 I'm currently a senior studying Computer Science at Columbia University.
 - 🌱 I'm currently learning user interface design and operating systems.
 - 📫 Reach me by yuxin.li.career@gmail.com.
 - 😊 Fun fact: I've been to 10+ countries, and this number is continually growing.
