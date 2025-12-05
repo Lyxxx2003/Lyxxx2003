@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### About Me
 - 🧑‍🎓 I'm currently a senior studying Computer Science at Columbia University.
 - 🌱 I'm currently learning user interface design and operating systems.
-- 📫 Reach me by yuxin.li.career@gmail.com. Or [my website](https://lyxxx2003.github.io/yuxin-li.github.io/)
+- 📫 Reach me by yuxin.li.career@gmail.com. Or [my website](https://lyxxx2003.github.io/yuxin-li.github.io/).
 - 😊 Fun fact: I've been to 10+ countries, and this number is continually growing.
 
 ### Some Tech Stats
